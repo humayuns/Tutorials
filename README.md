@@ -1,3 +1,3 @@
 # Tutorials
 
-# Using Git with Visual Studio 2015
+1. Using Git with Visual Studio 2015
