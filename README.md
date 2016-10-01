@@ -5,4 +5,4 @@
 3. WPF Tutorial
 4. UWP Tutorial
 5. JavaScript Tutorial
-6. Visual Basic Tutorial
+6. Visual Basic Tutorial :zap:
