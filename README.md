@@ -10,6 +10,8 @@
 4. UWP Tutorial
 5. JavaScript Tutorial
 6. Visual Basic Tutorial :zap:
+7. Markdown Tutorial
+8. RegEx Tutorial
 
 ##References
 * :notebook: **Markdown Reference**: https://guides.github.com/features/mastering-markdown/
